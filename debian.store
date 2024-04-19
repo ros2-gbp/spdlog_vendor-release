@@ -1,1 +1,1 @@
-{"base": "faadcc9", "parent": "debian/rolling/spdlog_vendor", "previous": "c765cbb", "trim": "", "trimbase": ""}
+{"base": "dc2930c", "parent": "debian/jazzy/spdlog_vendor", "previous": "e553cb2", "trim": "", "trimbase": ""}
