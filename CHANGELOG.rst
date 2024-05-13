@@ -2,10 +2,12 @@
 Changelog for package spdlog_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.7.0 (2024-04-29)
+1.6.1 (2024-05-13)
 ------------------
-* Removed spdlog_vendor warnings (`#36 <https://github.com/ros2/spdlog_vendor/issues/36>`_)
-* Contributors: Alejandro Hernández Cordero
+* Removed spdlog_vendor warnings (`#36 <https://github.com/ros2/spdlog_vendor/issues/36>`_) (`#37 <https://github.com/ros2/spdlog_vendor/issues/37>`_)
+  (cherry picked from commit 4510d9ab4389f84daac77210f3fdf8aab372b938)
+  Co-authored-by: Alejandro Hernández Cordero <ahcorde@gmail.com>
+* Contributors: mergify[bot]
 
 1.6.0 (2024-04-16)
 ------------------
