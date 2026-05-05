@@ -1,1 +1,1 @@
-{"base": "c870a6045bdf", "parent": "release/rolling/spdlog_vendor/1.8.0-2", "previous": "d91f8d0dcb0c", "trim": "", "trimbase": ""}
+{"base": "40e7efe", "parent": "release/rolling/spdlog_vendor", "previous": "5b73973", "trim": "", "trimbase": ""}
