@@ -2,18 +2,21 @@
 Changelog for package spdlog_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.9.0 (2026-05-05)
+1.6.2 (2026-06-03)
 ------------------
+* Remove CODEOWNERS and mirror-rolling-to-master. (`#38 <https://github.com/ros2/spdlog_vendor/issues/38>`_) (`#39 <https://github.com/ros2/spdlog_vendor/issues/39>`_)
+  They are both outdated and both no longer serve their
+  intended purpose.
+  (cherry picked from commit b391a1d9919273f46a2f6be2496caa4ce19c3f95)
+  Co-authored-by: Chris Lalancette <clalancette@openrobotics.org>
+* Contributors: mergify[bot]
 
-1.8.0 (2025-04-25)
+1.6.1 (2024-05-13)
 ------------------
-* Remove CODEOWNERS and mirror-rolling-to-master. (`#38 <https://github.com/ros2/spdlog_vendor/issues/38>`_)
-* Contributors: Chris Lalancette
-
-1.7.0 (2024-04-29)
-------------------
-* Removed spdlog_vendor warnings (`#36 <https://github.com/ros2/spdlog_vendor/issues/36>`_)
-* Contributors: Alejandro Hernández Cordero
+* Removed spdlog_vendor warnings (`#36 <https://github.com/ros2/spdlog_vendor/issues/36>`_) (`#37 <https://github.com/ros2/spdlog_vendor/issues/37>`_)
+  (cherry picked from commit 4510d9ab4389f84daac77210f3fdf8aab372b938)
+  Co-authored-by: Alejandro Hernández Cordero <ahcorde@gmail.com>
+* Contributors: mergify[bot]
 
 1.6.0 (2024-04-16)
 ------------------
